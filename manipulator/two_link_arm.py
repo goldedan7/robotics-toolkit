@@ -16,7 +16,7 @@ class TwoLinkArm:
 
     def __init__(self, link1_length: float, link2_length: float):
         if link1_length <= 0 or link2_length <= 0:
-            raise ValueError("Link lengths must be positive.")
+            raise ValueError("Link lengths must be positive.")  #making error when the length is negative
         self.L1 = link1_length
         self.L2 = link2_length
 
