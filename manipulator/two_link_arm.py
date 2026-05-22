@@ -11,7 +11,7 @@ Convention:
 import numpy as np
 
 
-class TwoLinkArm:
+class TwoLinkArm: #making class
     """A 2-DOF planar manipulator with two revolute joints."""
 
     def __init__(self, link1_length: float, link2_length: float):
