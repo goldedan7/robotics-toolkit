@@ -9,7 +9,7 @@ Built as part of my journey from Mechanical Engineering into Physical AI & Robot
 ## Roadmap
 
 ### Module 1: 2D Manipulator Kinematics (current)
-- [V] Forward kinematics for 2-link planar arm
+- [ ] Forward kinematics for 2-link planar arm
 - [ ] Visualization with matplotlib
 - [ ] Jacobian computation
 - [ ] Analytical inverse kinematics
